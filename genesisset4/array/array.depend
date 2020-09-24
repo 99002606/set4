@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600900699 source:c:\users\training\documents\genesisset4\array\array.cc
+	<iostream>
+	"array.h"
+
+1600900673 c:\users\training\documents\genesisset4\array\array.h
+
+1600900674 source:c:\users\training\documents\genesisset4\array\array_test.cc
+	"array.cc"
+	<iostream>
+	<gtest/gtest.h>
+
+1600900699 c:\users\training\documents\genesisset4\array\array.cc
+	<iostream>
+	"array.h"
+

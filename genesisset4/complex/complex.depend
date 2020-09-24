@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600898538 source:c:\users\training\documents\genesisset4\complex\complex.cc
+	<iostream>
+	"complex.h"
+
+1600898540 c:\users\training\documents\genesisset4\complex\complex.h
+
+1600898564 source:c:\users\training\documents\genesisset4\complex\complex_test.cc
+	"complex.cc"
+	<iostream>
+	<gtest/gtest.h>
+
+1600898538 c:\users\training\documents\genesisset4\complex\complex.cc
+	<iostream>
+	"complex.h"
+

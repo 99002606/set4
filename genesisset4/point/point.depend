@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\training\documents\genesisset4\point\main.cpp
+	<iostream>
+
+1600899710 source:c:\users\training\documents\genesisset4\point\point.cc
+	"point.h"
+	<iostream>
+	<math.h>
+
+1600899750 c:\users\training\documents\genesisset4\point\point.h
+
+1600899710 source:c:\users\training\documents\genesisset4\point\point_test.cc
+	"point.cc"
+	<iostream>
+	<gtest/gtest.h>
+
+1600899710 c:\users\training\documents\genesisset4\point\point.cc
+	"point.h"
+	<iostream>
+	<math.h>
+

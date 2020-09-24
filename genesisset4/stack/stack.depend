@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1600659641 source:c:\users\training\documents\set_4\stack\main.cpp
+
+1600660009 source:c:\users\training\documents\set_4\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1600657096 c:\users\training\documents\set_4\stack\stack.h
+	<iostream>
+	<vector>
+
+1600908510 source:c:\users\training\downloads\set-master\set-master\set2\set4\stack\main.cpp
+
+1600908510 source:c:\users\training\downloads\set-master\set-master\set2\set4\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1600908510 c:\users\training\downloads\set-master\set-master\set2\set4\stack\stack.h
+	<iostream>
+	<vector>
+
+1600908510 source:c:\users\training\downloads\set-master\set-master\set2\set4\stack\stack_test.cpp
+	"stack.cpp"
+	<gtest/gtest.h>
+
+1600908510 c:\users\training\downloads\set-master\set-master\set2\set4\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1600908510 source:c:\users\training\documents\genesisset4\stack\main.cpp
+
+1600908510 source:c:\users\training\documents\genesisset4\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1600908510 c:\users\training\documents\genesisset4\stack\stack.h
+	<iostream>
+	<vector>
+
+1600908510 source:c:\users\training\documents\genesisset4\stack\stack_test.cpp
+	"stack.cpp"
+	<gtest/gtest.h>
+
+1600908510 c:\users\training\documents\genesisset4\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
